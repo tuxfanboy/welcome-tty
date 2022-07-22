@@ -8,3 +8,6 @@ My welcome screen on my tty. Beware: Spaghetti "code"
 - Put /Scripts/* in $HOME/Scripts
 
 - Put greeting.sh in /etc/profile.d/
+
+## Screenshot
+![Welcome](https://github.com/tuxfanboy/welcome-tty/blob/main/welcome-screenshot.png)
